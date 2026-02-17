@@ -3,7 +3,8 @@
 Objetivo: Desarrrollar un Sistema de Gestión de Biblioteca de Juegos Digitales utilizando sequelize para backend, MySQL para base de datos y React para frontend.
 
 ---
-Integrantes:
-    - Irazoqui, Marcos - m.irazoqui@itecriocuarto.org.ar
-    - Martinez, Joaquin - jo.martinez@itecriocuarto.org.ar
-    - Tobares, Juan Cruz - juantobares4@gmail.com
+
+## Integrantes:
+- Irazoqui, Marcos - m.irazoqui@itecriocuarto.org.ar
+- Martinez, Joaquin - jo.martinez@itecriocuarto.org.ar
+- Tobares, Juan Cruz - juantobares4@gmail.com
